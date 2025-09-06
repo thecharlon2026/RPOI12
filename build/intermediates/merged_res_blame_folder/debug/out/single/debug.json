@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_conversation_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\conversation_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_contact_muted.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\contact_muted.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_message_out.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\message_out.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_channel_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\channel_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable_button_disabled.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable\\button_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_user_busy.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\user_busy.png"
+    },
+    {
+        "merged": "com.zello.sdk.sample-merged_res-22:/drawable_ces_logo.xml.flat",
+        "source": "com.zello.sdk.sample-main-24:/drawable/ces_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_contact_muted.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\contact_muted.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_conversation_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\conversation_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_user_solo.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\user_solo.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_channel_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\channel_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_gateway_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\gateway_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_contact_muted.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\contact_muted.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_user_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\user_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_conversation_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\conversation_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_message_out.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\message_out.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_group_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\group_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\layout_contact.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\layout\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_channel_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\channel_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_user_standby.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\user_standby.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_conversation_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\conversation_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_user_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\user_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_user_standby.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\user_standby.png"
+    },
+    {
+        "merged": "com.zello.sdk.sample-merged_res-22:/drawable_button_login.xml.flat",
+        "source": "com.zello.sdk.sample-main-24:/drawable/button_login.xml"
+    },
+    {
+        "merged": "com.zello.sdk.sample-merged_res-22:/drawable_login_card_background.xml.flat",
+        "source": "com.zello.sdk.sample-main-24:/drawable/login_card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_channel_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\channel_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable_ces_logo.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable\\ces_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_user_busy.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\user_busy.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_user_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\user_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_user_busy.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\user_busy.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\layout_activity_another.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\layout\\activity_another.xml"
+    },
+    {
+        "merged": "com.zello.sdk.sample-merged_res-22:/drawable_edit_text_background.xml.flat",
+        "source": "com.zello.sdk.sample-main-24:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_user_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\user_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_user_standby.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\user_standby.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_conversation_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\conversation_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable_button_talk.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable\\button_talk.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_message_in.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\message_in.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_user_solo.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\user_solo.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_user_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\user_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_message_in.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\message_in.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_channel_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\channel_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_contact_muted.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\contact_muted.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_conversation_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\conversation_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable_button_pressed.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_message_in.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\message_in.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_user_solo.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\user_solo.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_user_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\user_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_group_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\group_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_user_standby.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\user_standby.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_channel_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\channel_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_user_busy.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\user_busy.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_group_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\group_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_gateway_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\gateway_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_message_out.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\message_out.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_message_in.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\message_in.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_message_out.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\message_out.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_user_solo.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\user_solo.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_conversation_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\conversation_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_conversation_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\conversation_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_channel_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\channel_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\layout_message.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_user_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\user_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable_button_normal.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable\\button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_gateway_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\gateway_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xhdpi_gateway_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\gateway_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-mdpi_channel_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\channel_online.png"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\layout_activity_talk.xml.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\layout\\activity_talk.xml"
+    },
+    {
+        "merged": "com.zello.sdk.sample-merged_res-22:/layout_activity_talk.xml.flat",
+        "source": "com.zello.sdk.sample-main-24:/layout/activity_talk.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-xxhdpi_user_offline.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\user_offline.png"
+    },
+    {
+        "merged": "com.zello.sdk.sample-merged_res-22:/drawable_button_talk_modern.xml.flat",
+        "source": "com.zello.sdk.sample-main-24:/drawable/button_talk_modern.xml"
+    },
+    {
+        "merged": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-merged_res-22:\\drawable-hdpi_group_online.png.flat",
+        "source": "C:\\Users\\jan.cabansag\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\group_online.png"
+    }
+]

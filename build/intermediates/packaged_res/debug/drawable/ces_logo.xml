@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- White circle background -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M60,60m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0"/>
+    
+    <!-- CES text -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M35,35h50v15h-50z"/>
+        
+    <!-- Flame icon placeholder -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M55,50h10v20h-10z"/>
+        
+    <!-- GET EM THRU text -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M25,85h70v8h-70z"/>
+        
+</vector>
