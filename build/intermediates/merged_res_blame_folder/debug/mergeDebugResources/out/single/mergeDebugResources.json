@@ -40,16 +40,16 @@
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\conversation_online.png"
     },
     {
-        "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-xhdpi_conversation_offline.png.flat",
-        "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\conversation_offline.png"
+        "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-xxhdpi_user_online.png.flat",
+        "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\user_online.png"
     },
     {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-xxhdpi_gateway_online.png.flat",
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\gateway_online.png"
     },
     {
-        "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-xxhdpi_user_online.png.flat",
-        "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\user_online.png"
+        "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-xhdpi_conversation_offline.png.flat",
+        "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\conversation_offline.png"
     },
     {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-hdpi_user_online.png.flat",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\channel_online.png"
     },
     {
-        "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-xhdpi_user_busy.png.flat",
-        "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\user_busy.png"
-    },
-    {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-xhdpi_user_standby.png.flat",
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\user_standby.png"
+    },
+    {
+        "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-xhdpi_user_busy.png.flat",
+        "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xhdpi\\user_busy.png"
     },
     {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-mdpi_user_busy.png.flat",
@@ -104,16 +104,8 @@
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\layout\\activity_talk.xml"
     },
     {
-        "merged": "com.zello.sdk.sample-debug-22:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.zello.sdk.sample-main-24:/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-hdpi_channel_online.png.flat",
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-hdpi\\channel_online.png"
-    },
-    {
-        "merged": "com.zello.sdk.sample-debug-22:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.zello.sdk.sample-main-24:/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-xhdpi_user_offline.png.flat",
@@ -172,14 +164,6 @@
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-xxhdpi\\conversation_offline.png"
     },
     {
-        "merged": "com.zello.sdk.sample-debug-22:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.zello.sdk.sample-main-24:/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.zello.sdk.sample-debug-22:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.zello.sdk.sample-main-24:/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-mdpi_gateway_online.png.flat",
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\gateway_online.png"
     },
@@ -220,6 +204,10 @@
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\group_online.png"
     },
     {
+        "merged": "com.zello.sdk.sample-debug-22:/layout_activity_talk.xml.flat",
+        "source": "com.zello.sdk.sample-main-24:/layout/activity_talk.xml"
+    },
+    {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-mdpi_conversation_online.png.flat",
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\conversation_online.png"
     },
@@ -234,10 +222,6 @@
     {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\drawable-mdpi_channel_offline.png.flat",
         "source": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-main-24:\\drawable-mdpi\\channel_offline.png"
-    },
-    {
-        "merged": "com.zello.sdk.sample-debug-22:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.zello.sdk.sample-main-24:/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\theprogrammer\\.gradle\\daemon\\8.6\\com.zello.sdk.sample-debug-22:\\layout_activity_another.xml.flat",
