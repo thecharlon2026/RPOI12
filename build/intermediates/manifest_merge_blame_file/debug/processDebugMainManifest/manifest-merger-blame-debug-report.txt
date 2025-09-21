@@ -1,0 +1,117 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zello.sdk.sample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10    <!-- Declare intents and packages that the library code would like to have access to on Android R+ -->
+11    <queries>
+11-->[zello-sdk.aar] C:\Users\theprogrammer\.gradle\caches\transforms-4\50ceb2f0d678695327681d3626895cbd\transformed\jetified-zello-sdk\AndroidManifest.xml:9:5-13:15
+12        <package android:name="com.loudtalks" />
+12-->[zello-sdk.aar] C:\Users\theprogrammer\.gradle\caches\transforms-4\50ceb2f0d678695327681d3626895cbd\transformed\jetified-zello-sdk\AndroidManifest.xml:10:9-49
+12-->[zello-sdk.aar] C:\Users\theprogrammer\.gradle\caches\transforms-4\50ceb2f0d678695327681d3626895cbd\transformed\jetified-zello-sdk\AndroidManifest.xml:10:18-46
+13        <package android:name="net.loudtalks" />
+13-->[zello-sdk.aar] C:\Users\theprogrammer\.gradle\caches\transforms-4\50ceb2f0d678695327681d3626895cbd\transformed\jetified-zello-sdk\AndroidManifest.xml:11:9-49
+13-->[zello-sdk.aar] C:\Users\theprogrammer\.gradle\caches\transforms-4\50ceb2f0d678695327681d3626895cbd\transformed\jetified-zello-sdk\AndroidManifest.xml:11:18-46
+14        <package android:name="com.pttsdk" />
+14-->[zello-sdk.aar] C:\Users\theprogrammer\.gradle\caches\transforms-4\50ceb2f0d678695327681d3626895cbd\transformed\jetified-zello-sdk\AndroidManifest.xml:12:9-46
+14-->[zello-sdk.aar] C:\Users\theprogrammer\.gradle\caches\transforms-4\50ceb2f0d678695327681d3626895cbd\transformed\jetified-zello-sdk\AndroidManifest.xml:12:18-43
+15    </queries>
+16
+17    <permission
+17-->[androidx.core:core:1.12.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\e2bea00d23b7ec4232efa359e6e15a04\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+18        android:name="com.zello.sdk.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.12.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\e2bea00d23b7ec4232efa359e6e15a04\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.12.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\e2bea00d23b7ec4232efa359e6e15a04\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.zello.sdk.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.12.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\e2bea00d23b7ec4232efa359e6e15a04\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.12.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\e2bea00d23b7ec4232efa359e6e15a04\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:5:2-38:16
+24        android:name="com.zello.sdk.sample.App"
+24-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:6:3-42
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.12.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\e2bea00d23b7ec4232efa359e6e15a04\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:icon="@mipmap/ic_launcher"
+28-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:7:3-37
+29        android:label="@string/app_name"
+29-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:8:3-35
+30        android:supportsRtl="true"
+30-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:9:3-29
+31        android:theme="@style/AppTheme" >
+31-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:10:3-34
+32        <activity
+32-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:12:3-22:14
+33            android:name="com.zello.sdk.sample.TalkActivity"
+33-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:13:4-52
+34            android:exported="true" >
+34-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:14:4-27
+35            <intent-filter>
+35-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:16:4-21:20
+36                <action android:name="android.intent.action.MAIN" />
+36-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:17:5-57
+36-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:17:13-54
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:19:5-65
+38-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:19:15-62
+39                <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER" />
+39-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:20:5-77
+39-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:20:15-74
+40            </intent-filter>
+41        </activity>
+42        <activity android:name="com.zello.sdk.sample.AnotherActivity" />
+42-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:24:3-25:58
+42-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:25:4-55
+43
+44        <meta-data
+44-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:27:3-29:27
+45            android:name="com.sec.android.support.multiwindow"
+45-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:28:4-54
+46            android:value="true" />
+46-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:29:4-24
+47        <meta-data
+47-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:31:3-33:27
+48            android:name="com.samsung.android.sdk.multiwindow.penwindow.enable"
+48-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:32:4-71
+49            android:value="true" />
+49-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:33:4-24
+50        <meta-data
+50-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:35:3-37:33
+51            android:name="com.samsung.android.sdk.multiwindow.style"
+51-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:36:4-60
+52            android:value="fixedRatio" />
+52-->D:\files\capstone\RPOI12\src\main\AndroidManifest.xml:37:4-30
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\8ecd2cf3e49154f061c8cdb95889b29e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\8ecd2cf3e49154f061c8cdb95889b29e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+56            android:authorities="com.zello.sdk.sample.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\8ecd2cf3e49154f061c8cdb95889b29e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\8ecd2cf3e49154f061c8cdb95889b29e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\8ecd2cf3e49154f061c8cdb95889b29e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\8ecd2cf3e49154f061c8cdb95889b29e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\theprogrammer\.gradle\caches\transforms-4\8ecd2cf3e49154f061c8cdb95889b29e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\theprogrammer\.gradle\caches\transforms-4\51856d211c7af4c82f8fdb93ebae322a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\theprogrammer\.gradle\caches\transforms-4\51856d211c7af4c82f8fdb93ebae322a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\theprogrammer\.gradle\caches\transforms-4\51856d211c7af4c82f8fdb93ebae322a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>
