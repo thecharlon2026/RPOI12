@@ -76,6 +76,10 @@
         "source": "com.zello.sdk.sample-main-24:/drawable-hdpi/user_online.png"
     },
     {
+        "merged": "com.zello.sdk.sample-debug-22:/drawable_app_logo.png.flat",
+        "source": "com.zello.sdk.sample-main-24:/drawable/app_logo.png"
+    },
+    {
         "merged": "com.zello.sdk.sample-debug-22:/drawable-mdpi_user_solo.png.flat",
         "source": "com.zello.sdk.sample-main-24:/drawable-mdpi/user_solo.png"
     },
